@@ -1,0 +1,15 @@
+{
+    "Coin": "TRX",
+    "Bet": "0.0001",
+    "Payout": "2",
+    "Hilo": "under",
+    "If_lose": "100",
+    "If_lose_refresh": "10",
+    "If_win": "120",
+    "If_win_refresh": "10",
+    "Stop_profit": "257",
+    "Stop_lose": "1",
+    "If_profit_switch": "10",
+    "If_lose_switch": "10",
+    "Refresh_bet": "1"
+}
